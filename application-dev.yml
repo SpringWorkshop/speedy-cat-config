@@ -1,0 +1,4 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://registry-service-master:8760/eureka/,http://registry-service-replicate:8760/eureka/
