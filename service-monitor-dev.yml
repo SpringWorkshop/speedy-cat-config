@@ -1,0 +1,8 @@
+spring:
+  mail:
+    host: smtp.163.com
+  boot:
+    admin:
+      notify:
+        mail:
+          to: rivneg@163.com
