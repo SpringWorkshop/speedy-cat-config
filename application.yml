@@ -1,3 +1,6 @@
 app:
   speedycat:
     license: MIT
+management:
+  security:
+    enabled: false
